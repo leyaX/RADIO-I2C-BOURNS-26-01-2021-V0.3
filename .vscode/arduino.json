@@ -1,0 +1,6 @@
+{
+    "sketch": "RADIO-I2C-BOURNS-26-01-2021-V0.3.ino",
+    "board": "arduino:avr:nano",
+    "port": "/dev/ttyUSB0",
+    "configuration": "cpu=atmega168"
+}
